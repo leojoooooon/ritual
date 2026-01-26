@@ -18,13 +18,9 @@
 ## Requirements
 *Stereo Loudspeaker System and High-Output Projector*
 
-## Screenshots 
-*Include in-action visuals.*
-
 ## Credits 
 *jun liu.*
 
-##License
-*What license is it made under, if any?* 
+
 
 
