@@ -10,10 +10,13 @@
 *Thw project utilizes the Unsplash and Freesound APIs to randomly retrieve audio and visual materials tagged with the keywords 'Nature' and 'Texture.' I view this non-directional acquisition of material as a form of ritualistic data offering.*
 
 ## Technology Used
-*1.python 2.ableton live 3.p5.js*
+*1.python using api for image and sound files
+2.ableton live  (music production)
+3.p5.js* (visual coding and sound interaction)
 
 ## How to Run / Install
-*1.preload the image and audio files.  2.The project is designed with flexibility in mind, allowing for either real-time audio-visual interaction or performance based on pre-loaded media. Depending on specific requirements, the audio input source in sketch.js can be configured to use a microphone or other channels*
+*1.preload the image and audio files.  
+2.The project is designed with flexibility in mind, allowing for either real-time audio-visual interaction or performance based on pre-loaded media. Depending on specific requirements, the audio input source in sketch.js can be configured to use a microphone or other channels*
 
 ## Media
 ![i1](https://github.com/user-attachments/assets/14e7fe6c-7b56-40de-ad19-ac7084c48a3b)
@@ -25,7 +28,27 @@
 *Javascript p5.js library p5.sound.js*
 
 ## Credits 
-*jun liu.*
+*made by jun liu.
+
+image from:
+Photo by <a href="https://unsplash.com/@outoforbit?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gustav Gullstrand</a> on <a href="https://unsplash.com/photos/a-tree-with-no-leaves-in-front-of-a-purple-sky-YxJPemFdhjY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@henry_be?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">enrico bet</a> on <a href="https://unsplash.com/photos/orange-flowers-IicyiaPYGGI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@gregbecker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Greg Becker</a> on <a href="https://unsplash.com/photos/body-of-water-under-clear-blue-sky-sYzFIusQp3Q?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@kristapsungurs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kristaps Ungurs</a> on <a href="https://unsplash.com/photos/aerial-view-of-a-sandy-beach-with-ocean-waves-Oy5ADtAHq9A?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@outoforbit?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gustav Gullstrand</a> on <a href="https://unsplash.com/photos/green-pine-trees-d6kSvT2xZQo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@szmigieldesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lukasz Szmigiel</a> on <a href="https://unsplash.com/photos/low-light-photo-of-forest-2ShvY8Lf6l0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@kennethliphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kenneth Li</a> on <a href="https://unsplash.com/photos/snow-capped-mountain-peak-emerges-from-clouds-below-sq15NflsDTc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@dalmartina?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Martina Nette</a> on <a href="https://unsplash.com/photos/misty-evergreen-forest-on-a-foggy-day-uBjBr9CvNiw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
+        
+*
 
 
 
