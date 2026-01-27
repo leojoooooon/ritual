@@ -13,10 +13,16 @@
 *1.python 2.ableton live 3.p5.js*
 
 ## How to Run / Install
-*1.preload the image and audio files.  2.download thep5.sound.js*
+*1.preload the image and audio files.  2.The project is designed with flexibility in mind, allowing for either real-time audio-visual interaction or performance based on pre-loaded media. Depending on specific requirements, the audio input source in sketch.js can be configured to use a microphone or other channels*
+
+## Media
+![i1](https://github.com/user-attachments/assets/14e7fe6c-7b56-40de-ad19-ac7084c48a3b)
+![i2](https://github.com/user-attachments/assets/b4006212-6b7f-41c2-ad40-14d20fe26ff8)
+![i3](https://github.com/user-attachments/assets/d8be9754-ea76-408c-b690-abc062b3c192)
 
 ## Requirements
 *Stereo Loudspeaker System and High-Output Projector*
+*Javascript p5.js library p5.sound.js*
 
 ## Credits 
 *jun liu.*
