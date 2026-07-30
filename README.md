@@ -53,12 +53,15 @@ Photo by <a href="https://unsplash.com/@dalmartina?utm_source=unsplash&utm_mediu
 # Work 2 project : web orchestra
 
 <img width="1187" height="640" alt="547415336-8dc48392-21a8-4f0e-9c07-260c23167868" src="https://github.com/user-attachments/assets/148d3092-96a1-4678-a3cc-6cbc937c7471" />
-
+For details, please refer to the Web Orchestra GitHub repository.
 https://github.com/leojoooooon/web_orchestra
 
 # Work 3 project:polylization
 
 <img width="384" height="198" alt="Screenshot 2026-07-30 at 10 19 29 PM" src="https://github.com/user-attachments/assets/b9cc7932-07f6-4422-ab07-bcfbb0af082a" />
+
+video in vimeo
+https://vimeo.com/1214407625?share=copy&fl=sv&fe=ci
 
 A browser-based interactive creative coding installation. This project utilizes Node.js and p5.js to transform landscape photography into a dynamic, physics-driven mosaic grid. Users can interact with the image fragments in real-time through mouse movements.
 
@@ -69,7 +72,12 @@ Refer to the README file for usage instructions.
 <img width="1460" height="793" alt="Screenshot 2026-07-30 at 5 54 10 PM" src="https://github.com/user-attachments/assets/98719acc-e5fe-4001-8faf-0a6ae394072f" />
 Use MediaPipe to recognize gestures and generate drum machine sequences.
 
-## 🤖 AI Usage Acknowledgement
+video in vimeo
+https://vimeo.com/1214406799?share=copy&fl=sv&fe=ci
+
+##  🤖 AI Usage Acknowledgement
+
+
 
 I would like to declare the use of AI tools (Google Gemini) during the development of my coursework:
 * **Code Debugging:** AI assistance was utilized to help troubleshoot and debug specific interactive code segments during the development of Project 2 and Project 3.
