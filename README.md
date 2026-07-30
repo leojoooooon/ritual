@@ -1,4 +1,4 @@
-# project name：ritual
+# Work1 project ：ritual
 
 <img width="1726" height="1080" alt="Screenshot 2026-01-26 at 11 46 16 AM" src="https://github.com/user-attachments/assets/ed3086c5-a9e1-447b-b1d0-446a389a6e48" />
 <img width="1728" height="1081" alt="Screenshot 2026-01-26 at 11 47 35 AM" src="https://github.com/user-attachments/assets/3161ed2f-8654-4300-aff9-c0f44baa19d2" />
@@ -49,7 +49,15 @@ Photo by <a href="https://unsplash.com/@dalmartina?utm_source=unsplash&utm_mediu
       
         
 *
+# Work 2 project : web orchestra
+
+<img width="1187" height="640" alt="547415336-8dc48392-21a8-4f0e-9c07-260c23167868" src="https://github.com/user-attachments/assets/148d3092-96a1-4678-a3cc-6cbc937c7471" />
+
+https://github.com/leojoooooon/web_orchestra
+
+# Work 3 project
 
 
-
-
+# Work 4 project : web cam drum machine
+<img width="1460" height="793" alt="Screenshot 2026-07-30 at 5 54 10 PM" src="https://github.com/user-attachments/assets/98719acc-e5fe-4001-8faf-0a6ae394072f" />
+Use MediaPipe to recognize gestures and generate drum machine sequences.
