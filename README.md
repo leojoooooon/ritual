@@ -1,3 +1,4 @@
+
 # Work1 project ：ritual
 
 <img width="1726" height="1080" alt="Screenshot 2026-01-26 at 11 46 16 AM" src="https://github.com/user-attachments/assets/ed3086c5-a9e1-447b-b1d0-446a389a6e48" />
@@ -55,9 +56,21 @@ Photo by <a href="https://unsplash.com/@dalmartina?utm_source=unsplash&utm_mediu
 
 https://github.com/leojoooooon/web_orchestra
 
-# Work 3 project
+# Work 3 project:polylization
+
+<img width="384" height="198" alt="Screenshot 2026-07-30 at 10 19 29 PM" src="https://github.com/user-attachments/assets/b9cc7932-07f6-4422-ab07-bcfbb0af082a" />
+
+A browser-based interactive creative coding installation. This project utilizes Node.js and p5.js to transform landscape photography into a dynamic, physics-driven mosaic grid. Users can interact with the image fragments in real-time through mouse movements.
+
+Refer to the README file for usage instructions.
 
 
 # Work 4 project : web cam drum machine
 <img width="1460" height="793" alt="Screenshot 2026-07-30 at 5 54 10 PM" src="https://github.com/user-attachments/assets/98719acc-e5fe-4001-8faf-0a6ae394072f" />
 Use MediaPipe to recognize gestures and generate drum machine sequences.
+
+## 🤖 AI Usage Acknowledgement
+
+I would like to declare the use of AI tools (Google Gemini) during the development of my coursework:
+* **Code Debugging:** AI assistance was utilized to help troubleshoot and debug specific interactive code segments during the development of Project 2 and Project 3.
+* **Documentation:** Gemini was also used to help format, polish, and translate this README file into standard English.
